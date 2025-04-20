@@ -27,25 +27,25 @@ These are the guide given by our instructor:
 - employee_id an integer that links to employee_id in the employees table.
 
 ## Query statements
-- Task - 1 Employee Table Query
+- Task - 1 Employee Table Query Statements
 
 ![Screenshot 2025-04-13 204504](https://github.com/user-attachments/assets/8b042284-796a-4d4c-80c3-d436f7e9cce3)
 
-- Task - 2 Department Table Query
+- Task - 2 Department Table Query Statements
 
 ![Screenshot 2025-04-13 204512](https://github.com/user-attachments/assets/9c5c7f27-e053-4139-920b-84d2589cc78c)
 
-- Task - 3 Employee Department Table Query
+- Task - 3 Employee Department Table Query Statements
 
 ![Screenshot 2025-04-13 204529](https://github.com/user-attachments/assets/4266781c-8b70-4930-93c0-478d32cd3830)
 
 
-- Task - 4 Project Table Query
+- Task - 4 Project Table Query Statements
 
 ![Screenshot 2025-04-13 204536](https://github.com/user-attachments/assets/abff69e3-b6ae-4a0d-8ea7-7a613103a8fd)
 
 
-- Task - 5 Managers Table Query
+- Task - 5 Managers Table Query Statements
 
 ![Screenshot 2025-04-13 204548](https://github.com/user-attachments/assets/721909de-42e8-465d-b139-2957d0a2fc75)
 
