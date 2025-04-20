@@ -74,6 +74,6 @@ These are the guide given by our instructor:
 
 
 ## Entity-Relational Schema
-Relation Schema attached below
+- Relation Schema attached below
 
 ![Screenshot 2025-04-13 194418](https://github.com/user-attachments/assets/91e16065-98d6-40b2-96e3-a8308793a76f)
