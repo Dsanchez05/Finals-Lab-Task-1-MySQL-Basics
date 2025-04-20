@@ -19,8 +19,8 @@ These are the guide given by our instructor:
 - Set the combination of employee_id and department_id as the primary key.
 
 ### Task 4: Create the employee_projects table
-- employee_id an integer that links to employee_id in the employees table.
-- project_name a text field (up to 255 characters) and made sure it can't be empty.
+- Define employee_id an integer that links to employee_id in the employees table.
+- Define project_name a text field (up to 255 characters) and made sure it can't be empty.
 
 ### Task 5: Create the managers table
 - Define manager_id a unique number, set it to auto-increment, and used it as the primary key.
