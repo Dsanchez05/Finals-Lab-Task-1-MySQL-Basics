@@ -5,17 +5,17 @@ In this task, we used MySQL to build a working database and learned how to corre
 These are the guide given by our instructor:
 
 ### Task 1: Create the employees table
-- employee_id a unique number, set it to auto-increment, and used it as the primary key.
-- employee_name a text field (up to 255 characters) and made sure it can't be empty.
-- manager_id an integer that links to employee_id from the same table.
+- Define employee_id a unique number, set it to auto-increment, and used it as the primary key.
+- Define employee_name a text field (up to 255 characters) and made sure it can't be empty.
+- Define manager_id an integer that links to employee_id from the same table.
 
 ### Task 2: Create the departments table
-- department_id a unique number, set it to auto-increment, and used it as the primary key.
-- department_name a text field (up to 255 characters) and made sure it can't be empty.
+- Define department_id a unique number, set it to auto-increment, and used it as the primary key.
+- Define department_name a text field (up to 255 characters) and made sure it can't be empty.
 
 ### Task 3: Create the employee_departments table
-- employee_id an integer that links to employee_id in the employees table.
-- department_id an integer that links to department_id in the departments table.
+- Define employee_id an integer that links to employee_id in the employees table.
+- Define department_id an integer that links to department_id in the departments table.
 - Set the combination of employee_id and department_id as the primary key.
 
 ### Task 4: Create the employee_projects table
@@ -23,8 +23,8 @@ These are the guide given by our instructor:
 - project_name a text field (up to 255 characters) and made sure it can't be empty.
 
 ### Task 5: Create the managers table
-- manager_id a unique number, set it to auto-increment, and used it as the primary key.
-- employee_id an integer that links to employee_id in the employees table.
+- Define manager_id a unique number, set it to auto-increment, and used it as the primary key.
+- Define employee_id an integer that links to employee_id in the employees table.
 
 ## Query statements
 - Task - 1 Employee Table Query Statements
